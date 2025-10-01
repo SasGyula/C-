@@ -1,0 +1,14 @@
+C:\Users\vts5fk\source\repos\0924\0924\obj\Debug\net8.0\0924.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vts5fk\source\repos\0924\0924\obj\Debug\net8.0\0924.AssemblyInfoInputs.cache
+C:\Users\vts5fk\source\repos\0924\0924\obj\Debug\net8.0\0924.AssemblyInfo.cs
+C:\Users\vts5fk\source\repos\0924\0924\obj\Debug\net8.0\0924.csproj.CoreCompileInputs.cache
+C:\Users\vts5fk\source\repos\0924\0924\bin\Debug\net8.0\0924.exe
+C:\Users\vts5fk\source\repos\0924\0924\bin\Debug\net8.0\0924.deps.json
+C:\Users\vts5fk\source\repos\0924\0924\bin\Debug\net8.0\0924.runtimeconfig.json
+C:\Users\vts5fk\source\repos\0924\0924\bin\Debug\net8.0\0924.dll
+C:\Users\vts5fk\source\repos\0924\0924\bin\Debug\net8.0\0924.pdb
+C:\Users\vts5fk\source\repos\0924\0924\obj\Debug\net8.0\0924.dll
+C:\Users\vts5fk\source\repos\0924\0924\obj\Debug\net8.0\refint\0924.dll
+C:\Users\vts5fk\source\repos\0924\0924\obj\Debug\net8.0\0924.pdb
+C:\Users\vts5fk\source\repos\0924\0924\obj\Debug\net8.0\0924.genruntimeconfig.cache
+C:\Users\vts5fk\source\repos\0924\0924\obj\Debug\net8.0\ref\0924.dll

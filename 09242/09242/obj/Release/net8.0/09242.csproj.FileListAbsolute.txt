@@ -1,0 +1,14 @@
+C:\Users\vts5fk\source\repos\09242\09242\obj\Release\net8.0\09242.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vts5fk\source\repos\09242\09242\obj\Release\net8.0\09242.AssemblyInfoInputs.cache
+C:\Users\vts5fk\source\repos\09242\09242\obj\Release\net8.0\09242.AssemblyInfo.cs
+C:\Users\vts5fk\source\repos\09242\09242\obj\Release\net8.0\09242.csproj.CoreCompileInputs.cache
+C:\Users\vts5fk\source\repos\09242\09242\bin\Release\net8.0\09242.exe
+C:\Users\vts5fk\source\repos\09242\09242\bin\Release\net8.0\09242.deps.json
+C:\Users\vts5fk\source\repos\09242\09242\bin\Release\net8.0\09242.runtimeconfig.json
+C:\Users\vts5fk\source\repos\09242\09242\bin\Release\net8.0\09242.dll
+C:\Users\vts5fk\source\repos\09242\09242\bin\Release\net8.0\09242.pdb
+C:\Users\vts5fk\source\repos\09242\09242\obj\Release\net8.0\09242.dll
+C:\Users\vts5fk\source\repos\09242\09242\obj\Release\net8.0\refint\09242.dll
+C:\Users\vts5fk\source\repos\09242\09242\obj\Release\net8.0\09242.pdb
+C:\Users\vts5fk\source\repos\09242\09242\obj\Release\net8.0\09242.genruntimeconfig.cache
+C:\Users\vts5fk\source\repos\09242\09242\obj\Release\net8.0\ref\09242.dll

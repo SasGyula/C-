@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vts5fk\\source\\repos\\09242\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06819DF1-206E-4BDA-83F1-6784407478EB}|09242\\09242.csproj|c:\\users\\vts5fk\\source\\repos\\09242\\09242\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06819DF1-206E-4BDA-83F1-6784407478EB}|09242\\09242.csproj|solutionrelative:09242\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vts5fk\\source\\repos\\09242\\09242\\Program.cs",
+              "RelativeDocumentMoniker": "09242\\Program.cs",
+              "ToolTip": "C:\\Users\\vts5fk\\source\\repos\\09242\\09242\\Program.cs",
+              "RelativeToolTip": "09242\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T07:43:16.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

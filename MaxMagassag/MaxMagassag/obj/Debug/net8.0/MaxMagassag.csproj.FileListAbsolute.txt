@@ -1,0 +1,14 @@
+C:\Users\vts5fk\source\repos\MaxMagassag\MaxMagassag\obj\Debug\net8.0\MaxMagassag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vts5fk\source\repos\MaxMagassag\MaxMagassag\obj\Debug\net8.0\MaxMagassag.AssemblyInfoInputs.cache
+C:\Users\vts5fk\source\repos\MaxMagassag\MaxMagassag\obj\Debug\net8.0\MaxMagassag.AssemblyInfo.cs
+C:\Users\vts5fk\source\repos\MaxMagassag\MaxMagassag\obj\Debug\net8.0\MaxMagassag.csproj.CoreCompileInputs.cache
+C:\Users\vts5fk\source\repos\MaxMagassag\MaxMagassag\bin\Debug\net8.0\MaxMagassag.exe
+C:\Users\vts5fk\source\repos\MaxMagassag\MaxMagassag\bin\Debug\net8.0\MaxMagassag.deps.json
+C:\Users\vts5fk\source\repos\MaxMagassag\MaxMagassag\bin\Debug\net8.0\MaxMagassag.runtimeconfig.json
+C:\Users\vts5fk\source\repos\MaxMagassag\MaxMagassag\bin\Debug\net8.0\MaxMagassag.dll
+C:\Users\vts5fk\source\repos\MaxMagassag\MaxMagassag\bin\Debug\net8.0\MaxMagassag.pdb
+C:\Users\vts5fk\source\repos\MaxMagassag\MaxMagassag\obj\Debug\net8.0\MaxMagassag.dll
+C:\Users\vts5fk\source\repos\MaxMagassag\MaxMagassag\obj\Debug\net8.0\refint\MaxMagassag.dll
+C:\Users\vts5fk\source\repos\MaxMagassag\MaxMagassag\obj\Debug\net8.0\MaxMagassag.pdb
+C:\Users\vts5fk\source\repos\MaxMagassag\MaxMagassag\obj\Debug\net8.0\MaxMagassag.genruntimeconfig.cache
+C:\Users\vts5fk\source\repos\MaxMagassag\MaxMagassag\obj\Debug\net8.0\ref\MaxMagassag.dll
