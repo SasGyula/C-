@@ -1,0 +1,15 @@
+C:\Users\vts5fk\source\repos\Matrix\Matrix\bin\Debug\net8.0\Matrix.exe
+C:\Users\vts5fk\source\repos\Matrix\Matrix\bin\Debug\net8.0\Matrix.deps.json
+C:\Users\vts5fk\source\repos\Matrix\Matrix\bin\Debug\net8.0\Matrix.runtimeconfig.json
+C:\Users\vts5fk\source\repos\Matrix\Matrix\bin\Debug\net8.0\Matrix.dll
+C:\Users\vts5fk\source\repos\Matrix\Matrix\bin\Debug\net8.0\Matrix.pdb
+C:\Users\vts5fk\source\repos\Matrix\Matrix\obj\Debug\net8.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vts5fk\source\repos\Matrix\Matrix\obj\Debug\net8.0\Matrix.AssemblyInfoInputs.cache
+C:\Users\vts5fk\source\repos\Matrix\Matrix\obj\Debug\net8.0\Matrix.AssemblyInfo.cs
+C:\Users\vts5fk\source\repos\Matrix\Matrix\obj\Debug\net8.0\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\vts5fk\source\repos\Matrix\Matrix\obj\Debug\net8.0\Matrix.sourcelink.json
+C:\Users\vts5fk\source\repos\Matrix\Matrix\obj\Debug\net8.0\Matrix.dll
+C:\Users\vts5fk\source\repos\Matrix\Matrix\obj\Debug\net8.0\refint\Matrix.dll
+C:\Users\vts5fk\source\repos\Matrix\Matrix\obj\Debug\net8.0\Matrix.pdb
+C:\Users\vts5fk\source\repos\Matrix\Matrix\obj\Debug\net8.0\Matrix.genruntimeconfig.cache
+C:\Users\vts5fk\source\repos\Matrix\Matrix\obj\Debug\net8.0\ref\Matrix.dll

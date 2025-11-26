@@ -1,0 +1,15 @@
+C:\Users\vts5fk\source\repos\CsoportZHSasGyula\CsoportZHSasGyula\obj\Debug\net8.0\CsoportZHSasGyula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vts5fk\source\repos\CsoportZHSasGyula\CsoportZHSasGyula\obj\Debug\net8.0\CsoportZHSasGyula.AssemblyInfoInputs.cache
+C:\Users\vts5fk\source\repos\CsoportZHSasGyula\CsoportZHSasGyula\obj\Debug\net8.0\CsoportZHSasGyula.AssemblyInfo.cs
+C:\Users\vts5fk\source\repos\CsoportZHSasGyula\CsoportZHSasGyula\obj\Debug\net8.0\CsoportZHSasGyula.csproj.CoreCompileInputs.cache
+C:\Users\vts5fk\source\repos\CsoportZHSasGyula\CsoportZHSasGyula\obj\Debug\net8.0\CsoportZHSasGyula.sourcelink.json
+C:\Users\vts5fk\source\repos\CsoportZHSasGyula\CsoportZHSasGyula\bin\Debug\net8.0\CsoportZHSasGyula.exe
+C:\Users\vts5fk\source\repos\CsoportZHSasGyula\CsoportZHSasGyula\bin\Debug\net8.0\CsoportZHSasGyula.deps.json
+C:\Users\vts5fk\source\repos\CsoportZHSasGyula\CsoportZHSasGyula\bin\Debug\net8.0\CsoportZHSasGyula.runtimeconfig.json
+C:\Users\vts5fk\source\repos\CsoportZHSasGyula\CsoportZHSasGyula\bin\Debug\net8.0\CsoportZHSasGyula.dll
+C:\Users\vts5fk\source\repos\CsoportZHSasGyula\CsoportZHSasGyula\bin\Debug\net8.0\CsoportZHSasGyula.pdb
+C:\Users\vts5fk\source\repos\CsoportZHSasGyula\CsoportZHSasGyula\obj\Debug\net8.0\CsoportZHSasGyula.dll
+C:\Users\vts5fk\source\repos\CsoportZHSasGyula\CsoportZHSasGyula\obj\Debug\net8.0\refint\CsoportZHSasGyula.dll
+C:\Users\vts5fk\source\repos\CsoportZHSasGyula\CsoportZHSasGyula\obj\Debug\net8.0\CsoportZHSasGyula.pdb
+C:\Users\vts5fk\source\repos\CsoportZHSasGyula\CsoportZHSasGyula\obj\Debug\net8.0\CsoportZHSasGyula.genruntimeconfig.cache
+C:\Users\vts5fk\source\repos\CsoportZHSasGyula\CsoportZHSasGyula\obj\Debug\net8.0\ref\CsoportZHSasGyula.dll

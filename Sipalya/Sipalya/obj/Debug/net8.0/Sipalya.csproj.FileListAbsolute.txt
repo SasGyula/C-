@@ -1,0 +1,15 @@
+C:\Users\vts5fk\source\repos\Sipalya\Sipalya\obj\Debug\net8.0\Sipalya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vts5fk\source\repos\Sipalya\Sipalya\obj\Debug\net8.0\Sipalya.AssemblyInfoInputs.cache
+C:\Users\vts5fk\source\repos\Sipalya\Sipalya\obj\Debug\net8.0\Sipalya.AssemblyInfo.cs
+C:\Users\vts5fk\source\repos\Sipalya\Sipalya\obj\Debug\net8.0\Sipalya.csproj.CoreCompileInputs.cache
+C:\Users\vts5fk\source\repos\Sipalya\Sipalya\obj\Debug\net8.0\Sipalya.sourcelink.json
+C:\Users\vts5fk\source\repos\Sipalya\Sipalya\bin\Debug\net8.0\Sipalya.exe
+C:\Users\vts5fk\source\repos\Sipalya\Sipalya\bin\Debug\net8.0\Sipalya.deps.json
+C:\Users\vts5fk\source\repos\Sipalya\Sipalya\bin\Debug\net8.0\Sipalya.runtimeconfig.json
+C:\Users\vts5fk\source\repos\Sipalya\Sipalya\bin\Debug\net8.0\Sipalya.dll
+C:\Users\vts5fk\source\repos\Sipalya\Sipalya\bin\Debug\net8.0\Sipalya.pdb
+C:\Users\vts5fk\source\repos\Sipalya\Sipalya\obj\Debug\net8.0\Sipalya.dll
+C:\Users\vts5fk\source\repos\Sipalya\Sipalya\obj\Debug\net8.0\refint\Sipalya.dll
+C:\Users\vts5fk\source\repos\Sipalya\Sipalya\obj\Debug\net8.0\Sipalya.pdb
+C:\Users\vts5fk\source\repos\Sipalya\Sipalya\obj\Debug\net8.0\Sipalya.genruntimeconfig.cache
+C:\Users\vts5fk\source\repos\Sipalya\Sipalya\obj\Debug\net8.0\ref\Sipalya.dll
