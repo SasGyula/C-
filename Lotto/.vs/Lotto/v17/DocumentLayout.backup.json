@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vts5fk\\source\\repos\\Lotto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF643B4F-965C-42B2-BB2D-50E56374CD7E}|Lotto\\Lotto.csproj|c:\\users\\vts5fk\\source\\repos\\lotto\\lotto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF643B4F-965C-42B2-BB2D-50E56374CD7E}|Lotto\\Lotto.csproj|solutionrelative:lotto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vts5fk\\source\\repos\\Lotto\\Lotto\\Program.cs",
+              "RelativeDocumentMoniker": "Lotto\\Program.cs",
+              "ToolTip": "C:\\Users\\vts5fk\\source\\repos\\Lotto\\Lotto\\Program.cs*",
+              "RelativeToolTip": "Lotto\\Program.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T09:31:22.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,4 @@
-﻿
-
-
+﻿using System;
 namespace Sipalya
 {
     internal class Program
@@ -16,9 +14,23 @@ namespace Sipalya
             (van1, ind1) = a_feladat(napdb, palyadb, meres);
             (van2, ind2) = b_feladat(napdb, palyadb, meres);
             Console.WriteLine("#");
-            Console.WriteLine(ind1);
+            if (!(van1))
+            {
+                Console.WriteLine(-1);
+            }
+            else
+            {
+                Console.WriteLine(ind1 + 1);
+            }
             Console.WriteLine("#");
-            Console.WriteLine(ind2);
+            if (!(van2))
+            {
+                Console.WriteLine(-1);
+            }
+            else
+            {
+                Console.WriteLine(ind2 + 1);
+            }
             Console.WriteLine("#");
             Console.WriteLine("#");
         }
